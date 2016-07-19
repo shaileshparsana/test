@@ -62,4 +62,4 @@ I also tested memcacheD, which is newer extension and it seems memcached is work
     <session_save><![CDATA[memcached]]></session_save>
     <session_save_path><![CDATA[localhost:11211]]></session_save_path>
 
-memcached instead of memcache, tcp:// removed for memcached. I never used memcached in production, but it works for me on my dev machine, login works. 
+memcached instead of memcache, tcp:// removed for memcached. I never used memcached in production, but it works for me on my dev machine, login works. test       
